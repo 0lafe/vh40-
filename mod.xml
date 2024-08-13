@@ -1,0 +1,8 @@
+<table
+		name="VH40+"
+		description=""
+		author="NotYourAvStalin &amp; 0lafe">
+	<hooks>
+		<hook source_file="lib/tweak_data/playertweakdata" file="playertweakdata.lua"/>
+	</hooks>
+</table>
